@@ -12,6 +12,11 @@ var ejercicios = function (name, horas) {
     this.horas = 2;
     }
 
+//Ejercicio 7
+var almuerzo = function (comida, hora) {
+    this.comida = "Sancocho";
+    this.horas = "1:30 pm";
+
 //Ejercicio 6
 var desayuno = function (comida, hora) {
     this.comida = "Buñuelos";
