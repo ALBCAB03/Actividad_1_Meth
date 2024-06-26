@@ -16,4 +16,9 @@ var ejercicios = function (name, horas) {
 var almuerzo = function (comida, hora) {
     this.comida = "Sancocho";
     this.horas = "1:30 pm";
+
+//Ejercicio 6
+var desayuno = function (comida, hora) {
+    this.comida = "Buñuelos";
+    this.horas = "10:30";
     }
