@@ -3,13 +3,14 @@ console.log("Dia de la semana")
 
 //Ejercicio 3
 var depertar = function (hora, dia) {
-this.hora = 6;
-this.dia = miercoles;
+    this.hora = 6;
+    this.dia = miercoles;
 }
 //Ejercicio 4
-var ejercicios = function (name, horas) {
+var ejercicios = function (name, horas,lorem) {
     this.name = "Smartfit";
     this.horas = 2;
+    this.lorem = "";
     }
 
 //Ejercicio 7
